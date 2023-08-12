@@ -5,3 +5,5 @@
 ## News is an website that displays the new using the real time API. 
 
 API used (https://inshorts.me/news/all)
+
+![App](<App.png>)
